@@ -21,7 +21,7 @@
         // 로그인이 되어있는 사람만 볼수 있는 화면
             } else {
         %>       
-             <li><a href="loginAction.jsp">로그아웃</a></li>                
+             <li><a href="logout.jsp">로그아웃</a></li>                
         <%
             }
         %>

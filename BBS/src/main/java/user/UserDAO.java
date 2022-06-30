@@ -56,6 +56,9 @@ public class UserDAO {
             pstmt.setString(4, user.getUserGender());
             pstmt.setString(5, user.getUserEmail());
             return pstmt.executeUpdate();
+//            int result = pstmt.executeUpdate();
+//            System.out.println("result : "  + result);
+//            return result;
         } catch(Exception e) {
             e.printStackTrace();
         }

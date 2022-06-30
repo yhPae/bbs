@@ -10,7 +10,7 @@
  
 <head>
 <meta http-equiv="Content-Type" content="text/html; c harset=UTF-8">
-<title>JSP BBS</title>
+<title>JSP 게시판</title>
 </head>
 <body>
     <%

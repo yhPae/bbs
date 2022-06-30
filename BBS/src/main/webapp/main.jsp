@@ -11,7 +11,7 @@
 <jsp:include page="nav.jsp" flush="true" />
 <h3>메인화면</h3>
 <script>
-console.log(userID);
-</script>
+    console.log(userID);
+    </script>
 </body>
 </html>
