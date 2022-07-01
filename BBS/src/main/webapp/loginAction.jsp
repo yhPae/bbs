@@ -8,9 +8,11 @@
 <jsp:setProperty name="user" property="userID"/>
 <jsp:setProperty name="user" property="userPassword"/>
  
+<!DOCTYPE html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; c harset=UTF-8">
 <title>JSP 게시판</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body>
     <%

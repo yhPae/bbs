@@ -14,8 +14,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>JSP 게시판</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>JSP게시판 웹사이트</title>
 </head>
 <body>
    <%

@@ -4,4 +4,6 @@ nav ul,
 .container{width:800px}
 li{list-style-type: none;}
 nav ul{display:flex;justify-content: space-around;}
-.container{width:800px}
+.container .table{width:800px;border:1px solid #ccc}
+.container .table td input[type=text],
+.container .table td textarea {width:100%} 
